@@ -1,0 +1,770 @@
+[
+  {
+    "timestamp": 1742917152.086372,
+    "flow_rate": 6.02,
+    "pressure": 3.43,
+    "volume": 361.07,
+    "hourly_usage": 361.07,
+    "daily_usage": 361.07
+  },
+  {
+    "timestamp": 1742920752.086372,
+    "flow_rate": 5.33,
+    "pressure": 3.2,
+    "volume": 319.94,
+    "hourly_usage": 319.94,
+    "daily_usage": 681.01
+  },
+  {
+    "timestamp": 1742924352.086372,
+    "flow_rate": 12.4,
+    "pressure": 3.36,
+    "volume": 744.07,
+    "hourly_usage": 744.07,
+    "daily_usage": 1425.08
+  },
+  {
+    "timestamp": 1742927952.086372,
+    "flow_rate": 14.08,
+    "pressure": 3.66,
+    "volume": 844.74,
+    "hourly_usage": 844.74,
+    "daily_usage": 2269.82
+  },
+  {
+    "timestamp": 1742931552.086372,
+    "flow_rate": 9.78,
+    "pressure": 3.37,
+    "volume": 586.5,
+    "hourly_usage": 586.5,
+    "daily_usage": 2856.32
+  },
+  {
+    "timestamp": 1742935152.086372,
+    "flow_rate": 11.29,
+    "pressure": 3.64,
+    "volume": 677.42,
+    "hourly_usage": 677.42,
+    "daily_usage": 3533.75
+  },
+  {
+    "timestamp": 1742938752.086372,
+    "flow_rate": 8.64,
+    "pressure": 3.23,
+    "volume": 518.69,
+    "hourly_usage": 518.69,
+    "daily_usage": 4052.43
+  },
+  {
+    "timestamp": 1742942352.086372,
+    "flow_rate": 4.33,
+    "pressure": 3.79,
+    "volume": 259.91,
+    "hourly_usage": 259.91,
+    "daily_usage": 4312.34
+  },
+  {
+    "timestamp": 1742945952.086372,
+    "flow_rate": 3.0,
+    "pressure": 3.39,
+    "volume": 179.99,
+    "hourly_usage": 179.99,
+    "daily_usage": 4492.33
+  },
+  {
+    "timestamp": 1742949552.086372,
+    "flow_rate": 3.24,
+    "pressure": 3.52,
+    "volume": 194.57,
+    "hourly_usage": 194.57,
+    "daily_usage": 194.57
+  },
+  {
+    "timestamp": 1742953152.086372,
+    "flow_rate": 1.7,
+    "pressure": 3.22,
+    "volume": 101.76,
+    "hourly_usage": 101.76,
+    "daily_usage": 296.33
+  },
+  {
+    "timestamp": 1742956752.086372,
+    "flow_rate": 0.84,
+    "pressure": 3.61,
+    "volume": 50.11,
+    "hourly_usage": 50.11,
+    "daily_usage": 346.44
+  },
+  {
+    "timestamp": 1742960352.086372,
+    "flow_rate": 0.59,
+    "pressure": 3.73,
+    "volume": 35.28,
+    "hourly_usage": 35.28,
+    "daily_usage": 381.72
+  },
+  {
+    "timestamp": 1742963952.086372,
+    "flow_rate": 1.47,
+    "pressure": 3.78,
+    "volume": 88.05,
+    "hourly_usage": 88.05,
+    "daily_usage": 469.77
+  },
+  {
+    "timestamp": 1742967552.086372,
+    "flow_rate": 3.61,
+    "pressure": 3.57,
+    "volume": 216.76,
+    "hourly_usage": 216.76,
+    "daily_usage": 686.53
+  },
+  {
+    "timestamp": 1742971152.086372,
+    "flow_rate": 9.46,
+    "pressure": 3.54,
+    "volume": 567.75,
+    "hourly_usage": 567.75,
+    "daily_usage": 1254.29
+  },
+  {
+    "timestamp": 1742974752.086372,
+    "flow_rate": 12.88,
+    "pressure": 3.56,
+    "volume": 773.06,
+    "hourly_usage": 773.06,
+    "daily_usage": 2027.34
+  },
+  {
+    "timestamp": 1742978352.086372,
+    "flow_rate": 11.86,
+    "pressure": 3.36,
+    "volume": 711.7,
+    "hourly_usage": 711.7,
+    "daily_usage": 2739.05
+  },
+  {
+    "timestamp": 1742981952.086372,
+    "flow_rate": 4.9,
+    "pressure": 3.74,
+    "volume": 293.92,
+    "hourly_usage": 293.92,
+    "daily_usage": 3032.97
+  },
+  {
+    "timestamp": 1742985552.086372,
+    "flow_rate": 4.57,
+    "pressure": 3.75,
+    "volume": 274.31,
+    "hourly_usage": 274.31,
+    "daily_usage": 3307.27
+  },
+  {
+    "timestamp": 1742989152.086372,
+    "flow_rate": 5.92,
+    "pressure": 3.26,
+    "volume": 355.13,
+    "hourly_usage": 355.13,
+    "daily_usage": 3662.4
+  },
+  {
+    "timestamp": 1742992752.086372,
+    "flow_rate": 5.85,
+    "pressure": 3.71,
+    "volume": 350.77,
+    "hourly_usage": 350.77,
+    "daily_usage": 4013.18
+  },
+  {
+    "timestamp": 1742996352.086372,
+    "flow_rate": 5.16,
+    "pressure": 3.32,
+    "volume": 309.47,
+    "hourly_usage": 309.47,
+    "daily_usage": 4322.64
+  },
+  {
+    "timestamp": 1742999952.086372,
+    "flow_rate": 6.1,
+    "pressure": 3.4,
+    "volume": 366.15,
+    "hourly_usage": 366.15,
+    "daily_usage": 4688.79
+  },
+  {
+    "timestamp": 1743003552.086372,
+    "flow_rate": 5.52,
+    "pressure": 3.56,
+    "volume": 331.16,
+    "hourly_usage": 331.16,
+    "daily_usage": 5019.95
+  },
+  {
+    "timestamp": 1743007152.086372,
+    "flow_rate": 7.0,
+    "pressure": 3.38,
+    "volume": 419.88,
+    "hourly_usage": 419.88,
+    "daily_usage": 5439.82
+  },
+  {
+    "timestamp": 1743010752.086372,
+    "flow_rate": 7.9,
+    "pressure": 3.79,
+    "volume": 473.82,
+    "hourly_usage": 473.82,
+    "daily_usage": 5913.65
+  },
+  {
+    "timestamp": 1743014352.086372,
+    "flow_rate": 9.76,
+    "pressure": 3.48,
+    "volume": 585.75,
+    "hourly_usage": 585.75,
+    "daily_usage": 6499.4
+  },
+  {
+    "timestamp": 1743017952.086372,
+    "flow_rate": 13.79,
+    "pressure": 3.54,
+    "volume": 827.4,
+    "hourly_usage": 827.4,
+    "daily_usage": 7326.8
+  },
+  {
+    "timestamp": 1743021552.086372,
+    "flow_rate": 9.09,
+    "pressure": 3.58,
+    "volume": 545.13,
+    "hourly_usage": 545.13,
+    "daily_usage": 7871.93
+  },
+  {
+    "timestamp": 1743025152.086372,
+    "flow_rate": 9.45,
+    "pressure": 3.33,
+    "volume": 566.89,
+    "hourly_usage": 566.89,
+    "daily_usage": 8438.82
+  },
+  {
+    "timestamp": 1743028752.086372,
+    "flow_rate": 4.26,
+    "pressure": 3.23,
+    "volume": 255.53,
+    "hourly_usage": 255.53,
+    "daily_usage": 8694.35
+  },
+  {
+    "timestamp": 1743032352.086372,
+    "flow_rate": 2.88,
+    "pressure": 3.25,
+    "volume": 172.83,
+    "hourly_usage": 172.83,
+    "daily_usage": 8867.18
+  },
+  {
+    "timestamp": 1743035952.086372,
+    "flow_rate": 2.0,
+    "pressure": 3.7,
+    "volume": 120.17,
+    "hourly_usage": 120.17,
+    "daily_usage": 120.17
+  },
+  {
+    "timestamp": 1743039552.086372,
+    "flow_rate": 1.8,
+    "pressure": 3.77,
+    "volume": 108.27,
+    "hourly_usage": 108.27,
+    "daily_usage": 228.45
+  },
+  {
+    "timestamp": 1743043152.086372,
+    "flow_rate": 0.89,
+    "pressure": 3.66,
+    "volume": 53.43,
+    "hourly_usage": 53.43,
+    "daily_usage": 281.87
+  },
+  {
+    "timestamp": 1743046752.086372,
+    "flow_rate": 1.0,
+    "pressure": 3.22,
+    "volume": 59.97,
+    "hourly_usage": 59.97,
+    "daily_usage": 341.84
+  },
+  {
+    "timestamp": 1743050352.086372,
+    "flow_rate": 1.31,
+    "pressure": 3.38,
+    "volume": 78.45,
+    "hourly_usage": 78.45,
+    "daily_usage": 420.29
+  },
+  {
+    "timestamp": 1743053952.086372,
+    "flow_rate": 4.49,
+    "pressure": 3.41,
+    "volume": 269.14,
+    "hourly_usage": 269.14,
+    "daily_usage": 689.43
+  },
+  {
+    "timestamp": 1743057552.086372,
+    "flow_rate": 6.84,
+    "pressure": 3.36,
+    "volume": 410.68,
+    "hourly_usage": 410.68,
+    "daily_usage": 1100.12
+  },
+  {
+    "timestamp": 1743061152.086372,
+    "flow_rate": 9.33,
+    "pressure": 3.74,
+    "volume": 559.77,
+    "hourly_usage": 559.77,
+    "daily_usage": 1659.88
+  },
+  {
+    "timestamp": 1743064752.086372,
+    "flow_rate": 8.45,
+    "pressure": 3.71,
+    "volume": 506.97,
+    "hourly_usage": 506.97,
+    "daily_usage": 2166.85
+  },
+  {
+    "timestamp": 1743068352.086372,
+    "flow_rate": 8.47,
+    "pressure": 3.3,
+    "volume": 507.98,
+    "hourly_usage": 507.98,
+    "daily_usage": 2674.83
+  },
+  {
+    "timestamp": 1743071952.086372,
+    "flow_rate": 5.99,
+    "pressure": 3.54,
+    "volume": 359.59,
+    "hourly_usage": 359.59,
+    "daily_usage": 3034.42
+  },
+  {
+    "timestamp": 1743075552.086372,
+    "flow_rate": 6.68,
+    "pressure": 3.66,
+    "volume": 400.58,
+    "hourly_usage": 400.58,
+    "daily_usage": 3435.01
+  },
+  {
+    "timestamp": 1743079152.086372,
+    "flow_rate": 6.68,
+    "pressure": 3.74,
+    "volume": 400.68,
+    "hourly_usage": 400.68,
+    "daily_usage": 3835.69
+  },
+  {
+    "timestamp": 1743082752.086372,
+    "flow_rate": 6.61,
+    "pressure": 3.72,
+    "volume": 396.56,
+    "hourly_usage": 396.56,
+    "daily_usage": 4232.25
+  },
+  {
+    "timestamp": 1743086352.086372,
+    "flow_rate": 5.79,
+    "pressure": 3.41,
+    "volume": 347.63,
+    "hourly_usage": 347.63,
+    "daily_usage": 4579.88
+  },
+  {
+    "timestamp": 1743089952.086372,
+    "flow_rate": 5.28,
+    "pressure": 3.4,
+    "volume": 317.0,
+    "hourly_usage": 317.0,
+    "daily_usage": 4896.88
+  },
+  {
+    "timestamp": 1743093552.086372,
+    "flow_rate": 6.65,
+    "pressure": 3.37,
+    "volume": 399.26,
+    "hourly_usage": 399.26,
+    "daily_usage": 5296.14
+  },
+  {
+    "timestamp": 1743097152.086372,
+    "flow_rate": 7.12,
+    "pressure": 3.69,
+    "volume": 427.14,
+    "hourly_usage": 427.14,
+    "daily_usage": 5723.28
+  },
+  {
+    "timestamp": 1743100752.086372,
+    "flow_rate": 16.4,
+    "pressure": 3.39,
+    "volume": 983.96,
+    "hourly_usage": 983.96,
+    "daily_usage": 6707.24
+  },
+  {
+    "timestamp": 1743104352.086372,
+    "flow_rate": 13.15,
+    "pressure": 3.42,
+    "volume": 788.96,
+    "hourly_usage": 788.96,
+    "daily_usage": 7496.19
+  },
+  {
+    "timestamp": 1743107952.086372,
+    "flow_rate": 8.68,
+    "pressure": 3.35,
+    "volume": 520.75,
+    "hourly_usage": 520.75,
+    "daily_usage": 8016.94
+  },
+  {
+    "timestamp": 1743111552.086372,
+    "flow_rate": 6.16,
+    "pressure": 3.65,
+    "volume": 369.34,
+    "hourly_usage": 369.34,
+    "daily_usage": 8386.29
+  },
+  {
+    "timestamp": 1743115152.086372,
+    "flow_rate": 4.18,
+    "pressure": 3.32,
+    "volume": 250.76,
+    "hourly_usage": 250.76,
+    "daily_usage": 8637.05
+  },
+  {
+    "timestamp": 1743118752.086372,
+    "flow_rate": 3.46,
+    "pressure": 3.49,
+    "volume": 207.31,
+    "hourly_usage": 207.31,
+    "daily_usage": 8844.36
+  },
+  {
+    "timestamp": 1743122352.086372,
+    "flow_rate": 2.12,
+    "pressure": 3.31,
+    "volume": 127.4,
+    "hourly_usage": 127.4,
+    "daily_usage": 127.4
+  },
+  {
+    "timestamp": 1743125952.086372,
+    "flow_rate": 1.8,
+    "pressure": 3.71,
+    "volume": 107.84,
+    "hourly_usage": 107.84,
+    "daily_usage": 235.23
+  },
+  {
+    "timestamp": 1743129552.086372,
+    "flow_rate": 0.98,
+    "pressure": 3.33,
+    "volume": 58.95,
+    "hourly_usage": 58.95,
+    "daily_usage": 294.18
+  },
+  {
+    "timestamp": 1743133152.086372,
+    "flow_rate": 0.58,
+    "pressure": 3.57,
+    "volume": 34.57,
+    "hourly_usage": 34.57,
+    "daily_usage": 328.75
+  },
+  {
+    "timestamp": 1743136752.086372,
+    "flow_rate": 1.75,
+    "pressure": 3.45,
+    "volume": 105.08,
+    "hourly_usage": 105.08,
+    "daily_usage": 433.84
+  },
+  {
+    "timestamp": 1743140352.086372,
+    "flow_rate": 3.29,
+    "pressure": 3.54,
+    "volume": 197.43,
+    "hourly_usage": 197.43,
+    "daily_usage": 631.27
+  },
+  {
+    "timestamp": 1743143952.086372,
+    "flow_rate": 6.77,
+    "pressure": 3.47,
+    "volume": 406.36,
+    "hourly_usage": 406.36,
+    "daily_usage": 1037.62
+  },
+  {
+    "timestamp": 1743147552.086372,
+    "flow_rate": 10.82,
+    "pressure": 3.38,
+    "volume": 649.42,
+    "hourly_usage": 649.42,
+    "daily_usage": 1687.04
+  },
+  {
+    "timestamp": 1743151152.086372,
+    "flow_rate": 7.63,
+    "pressure": 3.74,
+    "volume": 457.94,
+    "hourly_usage": 457.94,
+    "daily_usage": 2144.99
+  },
+  {
+    "timestamp": 1743154752.086372,
+    "flow_rate": 4.83,
+    "pressure": 3.6,
+    "volume": 289.52,
+    "hourly_usage": 289.52,
+    "daily_usage": 2434.51
+  },
+  {
+    "timestamp": 1743158352.086372,
+    "flow_rate": 5.46,
+    "pressure": 3.29,
+    "volume": 327.69,
+    "hourly_usage": 327.69,
+    "daily_usage": 2762.2
+  },
+  {
+    "timestamp": 1743161952.086372,
+    "flow_rate": 5.09,
+    "pressure": 3.61,
+    "volume": 305.13,
+    "hourly_usage": 305.13,
+    "daily_usage": 3067.33
+  },
+  {
+    "timestamp": 1743165552.086372,
+    "flow_rate": 7.24,
+    "pressure": 3.27,
+    "volume": 434.15,
+    "hourly_usage": 434.15,
+    "daily_usage": 3501.48
+  },
+  {
+    "timestamp": 1743169152.086372,
+    "flow_rate": 8.49,
+    "pressure": 3.66,
+    "volume": 509.36,
+    "hourly_usage": 509.36,
+    "daily_usage": 4010.85
+  },
+  {
+    "timestamp": 1743172752.086372,
+    "flow_rate": 4.68,
+    "pressure": 3.53,
+    "volume": 280.75,
+    "hourly_usage": 280.75,
+    "daily_usage": 4291.6
+  },
+  {
+    "timestamp": 1743172752.086856,
+    "flow_rate": 6.06,
+    "pressure": 3.71,
+    "volume": 363.85,
+    "hourly_usage": 363.85,
+    "daily_usage": 363.85
+  },
+  {
+    "timestamp": 1743176352.086856,
+    "flow_rate": 5.42,
+    "pressure": 3.71,
+    "volume": 325.19,
+    "hourly_usage": 325.19,
+    "daily_usage": 689.04
+  },
+  {
+    "timestamp": 1743179952.086856,
+    "flow_rate": 5.24,
+    "pressure": 3.47,
+    "volume": 314.52,
+    "hourly_usage": 314.52,
+    "daily_usage": 1003.56
+  },
+  {
+    "timestamp": 1743183552.086856,
+    "flow_rate": 9.28,
+    "pressure": 3.36,
+    "volume": 556.52,
+    "hourly_usage": 556.52,
+    "daily_usage": 1560.07
+  },
+  {
+    "timestamp": 1743187152.086856,
+    "flow_rate": 17.74,
+    "pressure": 3.59,
+    "volume": 1064.1,
+    "hourly_usage": 1064.1,
+    "daily_usage": 2624.18
+  },
+  {
+    "timestamp": 1743190752.086856,
+    "flow_rate": 10.69,
+    "pressure": 3.26,
+    "volume": 641.26,
+    "hourly_usage": 641.26,
+    "daily_usage": 3265.44
+  },
+  {
+    "timestamp": 1743194352.086856,
+    "flow_rate": 11.52,
+    "pressure": 3.59,
+    "volume": 691.37,
+    "hourly_usage": 691.37,
+    "daily_usage": 3956.81
+  },
+  {
+    "timestamp": 1743197952.086856,
+    "flow_rate": 8.04,
+    "pressure": 3.72,
+    "volume": 482.48,
+    "hourly_usage": 482.48,
+    "daily_usage": 4439.29
+  },
+  {
+    "timestamp": 1743201552.086856,
+    "flow_rate": 4.19,
+    "pressure": 3.65,
+    "volume": 251.54,
+    "hourly_usage": 251.54,
+    "daily_usage": 4690.83
+  },
+  {
+    "timestamp": 1743205152.086856,
+    "flow_rate": 3.34,
+    "pressure": 3.75,
+    "volume": 200.54,
+    "hourly_usage": 200.54,
+    "daily_usage": 4891.38
+  },
+  {
+    "timestamp": 1743208752.086856,
+    "flow_rate": 2.03,
+    "pressure": 3.35,
+    "volume": 121.67,
+    "hourly_usage": 121.67,
+    "daily_usage": 121.67
+  },
+  {
+    "timestamp": 1743212352.086856,
+    "flow_rate": 2.05,
+    "pressure": 3.66,
+    "volume": 122.72,
+    "hourly_usage": 122.72,
+    "daily_usage": 244.39
+  },
+  {
+    "timestamp": 1743215952.086856,
+    "flow_rate": 0.82,
+    "pressure": 3.27,
+    "volume": 49.34,
+    "hourly_usage": 49.34,
+    "daily_usage": 293.73
+  },
+  {
+    "timestamp": 1743219552.086856,
+    "flow_rate": 0.81,
+    "pressure": 3.4,
+    "volume": 48.54,
+    "hourly_usage": 48.54,
+    "daily_usage": 342.27
+  },
+  {
+    "timestamp": 1743223152.086856,
+    "flow_rate": 1.54,
+    "pressure": 3.77,
+    "volume": 92.65,
+    "hourly_usage": 92.65,
+    "daily_usage": 434.92
+  },
+  {
+    "timestamp": 1743226752.086856,
+    "flow_rate": 4.22,
+    "pressure": 3.56,
+    "volume": 253.28,
+    "hourly_usage": 253.28,
+    "daily_usage": 688.2
+  },
+  {
+    "timestamp": 1743230352.086856,
+    "flow_rate": 6.26,
+    "pressure": 3.38,
+    "volume": 375.46,
+    "hourly_usage": 375.46,
+    "daily_usage": 1063.66
+  },
+  {
+    "timestamp": 1743233952.086856,
+    "flow_rate": 14.66,
+    "pressure": 3.73,
+    "volume": 879.74,
+    "hourly_usage": 879.74,
+    "daily_usage": 1943.4
+  },
+  {
+    "timestamp": 1743237552.086856,
+    "flow_rate": 8.84,
+    "pressure": 3.36,
+    "volume": 530.34,
+    "hourly_usage": 530.34,
+    "daily_usage": 2473.74
+  },
+  {
+    "timestamp": 1743241152.086856,
+    "flow_rate": 7.14,
+    "pressure": 3.29,
+    "volume": 428.54,
+    "hourly_usage": 428.54,
+    "daily_usage": 2902.29
+  },
+  {
+    "timestamp": 1743244752.086856,
+    "flow_rate": 4.23,
+    "pressure": 3.3,
+    "volume": 254.03,
+    "hourly_usage": 254.03,
+    "daily_usage": 3156.32
+  },
+  {
+    "timestamp": 1743248352.086856,
+    "flow_rate": 7.79,
+    "pressure": 3.78,
+    "volume": 467.31,
+    "hourly_usage": 467.31,
+    "daily_usage": 3623.63
+  },
+  {
+    "timestamp": 1743251952.086856,
+    "flow_rate": 9.02,
+    "pressure": 3.68,
+    "volume": 541.38,
+    "hourly_usage": 541.38,
+    "daily_usage": 4165.01
+  },
+  {
+    "timestamp": 1743255552.086856,
+    "flow_rate": 7.82,
+    "pressure": 3.34,
+    "volume": 468.96,
+    "hourly_usage": 468.96,
+    "daily_usage": 4633.97
+  }
+]
